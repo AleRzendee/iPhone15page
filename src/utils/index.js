@@ -1,6 +1,7 @@
-// ${(c) 2023 Apple Inc. All rights reserved.}
+import hero from "/assets/images/hero.jpeg";
 
-// mp4 videos
+export const heroImg = hero;
+
 import hmv from "/assets/videos/hero.mp4";
 import smallmv from "/assets/videos/smallHero.mp4";
 import highlightFirstmv from "/assets/videos/highlight-first.mp4";
@@ -10,7 +11,6 @@ import highlightFourthmv from "/assets/videos/hightlight-fourth.mp4";
 import exploremv from "/assets/videos/explore.mp4";
 import framemv from "/assets/videos/frame.mp4";
 
-// svg icons
 import apple from "/assets/images/apple.svg";
 import search from "/assets/images/search.svg";
 import bag from "/assets/images/bag.svg";
@@ -20,22 +20,15 @@ import replay from "/assets/images/replay.svg";
 import play from "/assets/images/play.svg";
 import pause from "/assets/images/pause.svg";
 
-// Hero image
-import hero from "/assets/images/hero.jpeg";
-
-// Colors
 import yellow from "/assets/images/yellow.jpg";
 import blue from "/assets/images/blue.jpg";
 import white from "/assets/images/white.jpg";
 import black from "/assets/images/black.jpg";
-
-// Images and models
 import explore1 from "/assets/images/explore1.jpg";
 import explore2 from "/assets/images/explore2.jpg";
 import chip from "/assets/images/chip.jpeg";
 import frame from "/assets/images/frame.png";
 
-export const heroImg = hero;
 export const heroVideo = hmv;
 export const smallHeroVideo = smallmv;
 export const highlightFirstVideo = highlightFirstmv;
