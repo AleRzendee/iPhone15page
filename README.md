@@ -3,7 +3,7 @@
 A clone of the Apple website built using modern web technologies such as **JavaScript**, **GSAP**, **ReactJS**, **TailwindCSS**, and **ThreeJS**. This project replicates the sleek and interactive design of the Apple website, showcasing animations, responsive layouts, and 3D visual elements.
 
 ## 🚀 Live Demo  
-🔗 [View Project](http://iclone-zeta.vercel.app/)  
+🔗 [View Project]()  
 
 ## Features
 
@@ -45,12 +45,12 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adityamawa/landingpage-clone-apple.git
+   git clone 
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd landingpage-clone-apple
+   cd 
    ```
 
 3. Install dependencies:
@@ -61,6 +61,10 @@ Ensure you have the following installed:
    ```bash
    yarn install
    ```
+   Or if you use pnpm:
+   ```bash
+   pnpm add
+   ```
 
 4. Start the development server:
    ```bash
@@ -69,6 +73,10 @@ Ensure you have the following installed:
    Or with yarn:
    ```bash
    yarn run dev
+   ```
+   Or with pnpm:
+   ```bash
+   pnpm run dev
    ```
 
 5. Open your browser and navigate to:
@@ -80,9 +88,6 @@ Ensure you have the following installed:
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
-
-## License
-This project is licensed under the Apache License - see the [LICENSE](https://github.com/adityamawa/iClone/blob/main/LICENSE) file for details. 
 
 ## Acknowledgments
 
