@@ -5,8 +5,6 @@ import * as THREE from 'three';
 // import Iphone from './Iphone';
 import Loader from "./Loader";
 
-import Loader from './Loader';
-
 const ModelView = ({index, groupRef, gsapType, controlRef, setRotation, size, item}) => {
     return (
         <View
