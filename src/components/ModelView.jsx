@@ -2,10 +2,10 @@ import React, { Suspense } from "react";
 import { Html, OrbitControls, PerspectiveCamera, View } from "@react-three/drei";
 import Lights from './Lights';
 import * as THREE from 'three';
-import Iphone from './Iphone';
+// import Iphone from './Iphone';
 import Loader from "./Loader";
 
-// import Loader from './Loader';
+import Loader from './Loader';
 
 const ModelView = ({index, groupRef, gsapType, controlRef, setRotation, size, item}) => {
     return (
